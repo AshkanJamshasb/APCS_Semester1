@@ -1,0 +1,16 @@
+
+1 = get balance.
+2 = add interest.
+3 = exit
+Enter a number: 1
+1000.0
+Enter a number: 2
+Enter a number: 1
+1100.0
+Enter a number: 2
+Enter a number: 1
+1210.0
+Enter a number: 2
+Enter a number: 1
+1331.0
+Enter a number: 3

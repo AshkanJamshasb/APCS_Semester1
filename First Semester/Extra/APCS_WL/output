@@ -1,0 +1,8 @@
+The array is: cat mouse frog dog dog 
+The number of words with length 4 is: 1
+The number of words with length 3 is: 3
+The number of words with length 2 is: 0
+Remove words with length of 4
+Remove words with length of 3
+Remove words with length of 2
+The array is: mouse 

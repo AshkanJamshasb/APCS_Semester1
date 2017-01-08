@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=tax
+comment0.target=CashRegister(double)
+comment1.params=price
+comment1.target=void\ recordablePurchase(double)
+comment2.params=price
+comment2.target=void\ recordTaxablePurchase(double)
+comment3.params=
+comment3.target=double\ getTotalPrice()
+comment4.params=
+comment4.target=double\ getTotalTax()
+comment5.params=
+comment5.target=double\ giveChange()
+numComments=6

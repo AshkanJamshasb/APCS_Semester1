@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Critter(int,\ int)
+comment1.params=
+comment1.target=void\ moveUp()
+comment2.params=
+comment2.target=void\ moveDown()
+comment3.params=
+comment3.target=void\ moveRight()
+comment4.params=
+comment4.target=void\ moveLeft()
+comment5.params=
+comment5.target=java.lang.String\ coordinates()
+comment6.params=
+comment6.target=double\ fromOrigin()
+comment7.params=
+comment7.target=int\ numMoves()
+numComments=8

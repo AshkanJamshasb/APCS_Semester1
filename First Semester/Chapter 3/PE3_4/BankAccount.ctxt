@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=balance
+comment0.target=BankAccount(double)
+comment1.params=
+comment1.target=double\ getBalance()
+comment2.params=rate
+comment2.target=void\ addInterest(double)
+numComments=3

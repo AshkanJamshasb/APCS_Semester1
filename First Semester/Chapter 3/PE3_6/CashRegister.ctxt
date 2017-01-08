@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=nextPrice
+comment0.target=void\ printReceipt(int)
+comment1.params=
+comment1.target=java.lang.String\ getStuff()
+numComments=2

@@ -1,0 +1,5 @@
+Enter your input: 0 0 0 1 0 1 0 0 P
+both doors stay closed
+Enter your input: 0 0 0 0 0 0 1 1 P
+left door opens
+right door opens

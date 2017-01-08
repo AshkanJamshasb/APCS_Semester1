@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ makeArray()
+comment1.params=len
+comment1.target=int\ numWordsOfLength(int)
+comment2.params=
+comment2.target=void\ printArray()
+comment3.params=len
+comment3.target=void\ removeWordsOfLength(int)
+numComments=4

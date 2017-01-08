@@ -1,0 +1,4 @@
+Even elements: [0] 0  [2] 5  [4] 2  [6] 9  [8] 8  
+Elements that are even: 0 2 2 6 8 
+Backwards: 9 8 7 9 6 2 1 5 2 0 
+First and last: 0 & 9

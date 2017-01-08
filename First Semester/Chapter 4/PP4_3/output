@@ -1,0 +1,10 @@
+Enter x coordinate for first point: 1
+Enter y coordinate for first point: 5
+Enter x coordinate for second point: 2
+Enter y coordinate for second point: 7
+Enter x coordinate for third point: 10
+Enter y coordinate for third point: 4
+Legnth of sides are 2.23606797749979, 8.54400374531753 and 9.055385138137417
+Legnth of angles are 0.24811344909667676, 1.2178059389679854 and 1.6756732655251312
+The perimeter is 19.835456860954736
+The area is 22.0

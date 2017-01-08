@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Needle()
+comment1.params=
+comment1.target=void\ drop()
+comment2.params=
+comment2.target=int\ getHits()
+comment3.params=
+comment3.target=int\ getTries()
+numComments=4

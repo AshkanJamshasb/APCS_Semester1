@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=numberToFactor
+comment0.target=FactorGenerator(int)
+comment1.params=n\ count
+comment1.target=boolean\ hasMoreFactors(int,\ int)
+comment2.params=i
+comment2.target=int\ nextFactor(int)
+numComments=3

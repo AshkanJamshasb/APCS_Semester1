@@ -1,0 +1,11 @@
+Enter row 1: 16 3 2 13
+Enter row 2: 5 10 11 8
+Enter row 3: 9 6 7 12
+Enter row 4: 4 15 14 1
+
+::MATRIX::
+16 3 2 13 
+5 10 11 8 
+9 6 7 12 
+4 15 14 1 
+Makes a perfect sqare.

@@ -1,0 +1,42 @@
+1. Upper case
+2. Second Letter
+3. No vowels
+4. Number of vowels
+5. Position of vowels
+2
+Enter a sentence
+Hey How arE you
+e, o, r, o
+1. Upper case
+2. Second Letter
+3. No vowels
+4. Number of vowels
+5. Position of vowels
+1
+Enter a sentence
+Hey how ArE you?
+H A E 
+1. Upper case
+2. Second Letter
+3. No vowels
+4. Number of vowels
+5. Position of vowels
+3
+Enter a sentence
+Hey HOw are yOu
+H_y H_w _r_ y__
+1. Upper case
+2. Second Letter
+3. No vowels
+4. Number of vowels
+5. Position of vowels
+4
+Enter a sentence
+Hey how are you
+The number of vowels are 6
+1. Upper case
+2. Second Letter
+3. No vowels
+4. Number of vowels
+5. Position of vowels
+Hey how are You?
